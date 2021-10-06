@@ -1,6 +1,7 @@
 # Anomaly detection and clustering patterns with marketing data
 Unsupervised learning is a essential component in machine learning. In this notebook, we will be implementing various Anomaly detection and clustering knowledge to find the relationship between income level and total spending. 
 
+The original dataset can be found on kaggle here: https://www.kaggle.com/jackdaoud/marketing-data
 ## Supervised vs Unsupervised learning
 The main difference between supervised and unsupervised learning is that supervised learning uses labeled datasets to "train" or supervised algorithms to predict outcomes accurately. The main two types of problems supervised learning tackles is classification and regression
 
